@@ -35,6 +35,8 @@ export const siteConfig = {
   // ---- ヘッダーナビ ----
   nav: [
     { label: "Home", href: "/" },
+    { label: "Services", href: "/#services" },
+    { label: "Works", href: "/#works" },
     { label: "Store", href: "/products" },
     { label: "About", href: "/about" },
     { label: "Contact", href: "/contact" },
